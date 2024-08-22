@@ -101,7 +101,7 @@ Correlation Analysis: A strong positive correlation between the proposed PageRan
 
 # Conclusion
 
-This research underscores the importance of developing an efficient and accurate page ranking algorithm to meet the growing demands of information retrieval in dynamic and large-scale web environments. By integrating Stother-William’s matrix multiplication into the page ranking process, the proposed algorithm demonstrates a significant reduction in processing time ranging from 0.04 to 15.7 seconds thereby surpassing the computational efficiency of existing algorithms. The enhanced algorithm stabilizes PageRank scores after approximately 25 iterations highlighting its superior convergence capabilities.
+This work underscores the importance of developing an efficient and accurate page ranking algorithm to meet the growing demands of information retrieval in dynamic and large-scale web environments. By integrating Stother-William’s matrix multiplication into the page ranking process, the proposed algorithm demonstrates a significant reduction in processing time ranging from 0.04 to 15.7 seconds thereby surpassing the computational efficiency of existing algorithms. The enhanced algorithm stabilizes PageRank scores after approximately 25 iterations highlighting its superior convergence capabilities.
 
 # Credits
 
