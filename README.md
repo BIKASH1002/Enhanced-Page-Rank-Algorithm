@@ -1,5 +1,7 @@
 # Search Engine Performance Optimization Using Enhanced Page Ranking Algorithm
 
+<div align = "justify">
+    
 # Overview
 
 This project introduces an enhanced PageRank algorithm designed to optimize search engine performance in large-scale and dynamic web environments. Traditional algorithms like Google’s PageRank have been foundational, but they face limitations in handling the ever-growing complexities of modern web structures. By incorporating the Stother-William’s matrix multiplication technique, the proposed algorithm significantly reduces computational time while improving accuracy in identifying key influential pages.
@@ -78,7 +80,7 @@ Ranking Accuracy: The algorithm produces more accurate and stable PageRank score
 
 </div>
 
-Correlation Analysis: A strong positive correlation between the proposed PageRank scores and in-degree centrality highlights the importance of incoming links in determining page relevance.
+**Correlation Analysis:** A strong positive correlation between the proposed PageRank scores and in-degree centrality highlights the importance of incoming links in determining page relevance.
 
 **GRAPHICAL ANALYSIS**
 
@@ -102,6 +104,8 @@ Correlation Analysis: A strong positive correlation between the proposed PageRan
 # Conclusion
 
 This work underscores the importance of developing an efficient and accurate page ranking algorithm to meet the growing demands of information retrieval in dynamic and large-scale web environments. By integrating Stother-William’s matrix multiplication into the page ranking process, the proposed algorithm demonstrates a significant reduction in processing time ranging from 0.04 to 15.7 seconds thereby surpassing the computational efficiency of existing algorithms. The enhanced algorithm stabilizes PageRank scores after approximately 25 iterations highlighting its superior convergence capabilities.
+
+</div>
 
 # Credits
 
